@@ -4,9 +4,9 @@ public class Hello {
         int b = 20;
 
         int sub = a - b;
-        int mul = a*b;
+
 
         System.out.println(sub);
-        System.out.println(mul);
+
     }
 }
